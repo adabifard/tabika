@@ -1,1 +1,1 @@
-[{"name":"پرسان کد","persan_code":""},{"name":"مینواپ","id":"minooap1"}]
+[{"name":"پرسان کد","id":"persan_code"},{"name":"مینواپ","id":"minooap1"}]
